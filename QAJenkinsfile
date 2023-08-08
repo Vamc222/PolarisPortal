@@ -1,0 +1,15 @@
+ pipeline{
+  agent { label 'qanode' }
+  tools {nodejs "nodejs"}
+    stages{   
+        stage('Build and Deploy Polaris UI') {
+            steps{
+                sh 'pwd'
+                sh "yarn install"
+                sh "yarn build:qa"
+                sh "aws s3 cp build s3://qa-polaris-portal-bucket --recursive"
+                //testing QA pipeline
+            }
+        }
+    }
+}

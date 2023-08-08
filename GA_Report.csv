@@ -1,0 +1,57 @@
+Time Period,Metric Name,Expected Value,Actual Value - UI
+Year,New_Users,114718,114729
+Year,Sessions,122085,122085
+Year,Bounces,88585,88585
+Year,Bounce_Rate,0.725601016,0.73
+Year,Goal_Completions,4840,4840
+Year,goalcompletionsToSessionsRate,0.0396445099725601,0.04
+ , , , 
+Quarter,New_Users,38286,37974
+Quarter,Sessions,38659,38299
+Quarter,Bounces,29528,29220
+Quarter,Bounce_Rate,0.763806617,0.76
+Quarter,Goal_Completions,1228,1227
+Quarter,goalcompletionsToSessionsRate,0.03176491890633488,0.03
+ , , , 
+Month,New_Users,11400,11400
+Month,Sessions,11422,11422
+Month,Bounces,8825,8825
+Month,Bounce_Rate,0.772631763,0.77
+Month,Goal_Completions,339,339
+Month,goalcompletionsToSessionsRate,0.029679565750306426,0.03
+ , , , 
+Week,New_Users,2872,2825
+Week,Sessions,2839,2812
+Week,Bounces,2250,2201
+Week,Bounce_Rate,0.792532582,0.78
+Week,Goal_Completions,73,74
+Week,goalcompletionsToSessionsRate,0.02571327932370553,0.03
+ , , , 
+Year,New_Users,94350,93586
+Year,Sessions,97871,97036
+Year,Bounces,77694,77002
+Year,Bounce_Rate,0.793840872,0.79
+Year,Goal_Completions,2450,2435
+Year,goalcompletionsToSessionsRate,0.025032951538249328,0.03
+ , , , 
+Quarter,New_Users,13662,13207
+Quarter,Sessions,13720,13242
+Quarter,Bounces,10570,10184
+Quarter,Bounce_Rate,0.770408163,0.77
+Quarter,Goal_Completions,404,390
+Quarter,goalcompletionsToSessionsRate,0.02944606413994169,0.03
+ , , , 
+Month,New_Users,2262,1807
+Month,Sessions,2298,1820
+Month,Bounces,1745,1359
+Month,Bounce_Rate,0.759355962,0.75
+Month,Goal_Completions,65,51
+Month,goalcompletionsToSessionsRate,0.028285465622280244,0.03
+ , , , 
+Week,New_Users,2265,2145
+Week,Sessions,2301,2191
+Week,Bounces,1747,1683
+Week,Bounce_Rate,0.759235115,0.77
+Week,Goal_Completions,65,61
+Week,goalcompletionsToSessionsRate,0.02824858757062147,0.03
+ , , , 

@@ -1,0 +1,16 @@
+Time Period,Metric Name,Expected Value,Actual Value - UI
+Year,Discovery_SearchesRaw,,54099
+Year,Branded_Searches,,513
+Year,Direct_Searches,24513,51727
+Year,Maps_Views,57080,45625
+Year,Search_Views,44911,78328
+Year,Discovery_Searches,NaN,53586
+Year,Total_Searches,24513undefined,105826
+Year,Total_Views,4491157080,123953
+Year,Website_Actions,2423,6592
+Year,Phone_Call_Actions,3056,8312
+Year,Clicks,30562423,14904
+Year,ClickTroughRate,NaN,0.141
+Year,Directions_Actions,790,3147
+Year,Total_Actions,NaN30562423,18051
+ , , , 

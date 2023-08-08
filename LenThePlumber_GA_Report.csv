@@ -1,0 +1,50 @@
+Time Period,Metric Name,Period,Expected Value,Actual Value - UI
+Year,New_Users,2021,810147,810344
+Year,Sessions,2021,820991,820991
+Year,Bounces,2021,660048,660048
+Year,Bounce_Rate,2021,0.803964964,0.8
+Year,Goal_Completions,2021,15871,15871
+Year,goalcompletionsToSessionsRate,2021,0.0193315152054042,0.02
+ , ,, , 
+Quarter,New_Users,2022-Q2,172512,168093
+Quarter,Sessions,2022-Q2,175948,171321
+Quarter,Bounces,2022-Q2,139794,136055
+Quarter,Bounce_Rate,2022-Q2,0.794518835,0.79
+Quarter,Goal_Completions,2022-Q2,3824,3721
+Quarter,goalcompletionsToSessionsRate,2022-Q2,0.021733694045968126,0.02
+ , ,, , 
+Month,New_Users,2022-07,62942,62959
+Month,Sessions,2022-07,65148,65148
+Month,Bounces,2022-07,52168,52168
+Month,Bounce_Rate,2022-07,0.800761343,0.8
+Month,Goal_Completions,2022-07,1291,1291
+Month,goalcompletionsToSessionsRate,2022-07,0.019816418002087555,0.02
+ , ,, , 
+Week,New_Users,2022-31,12935,12617
+Week,Sessions,2022-31,13311,13214
+Week,Bounces,2022-31,10758,10427
+Week,Bounce_Rate,2022-31,0.808203741,0.79
+Week,Goal_Completions,2022-31,235,253
+Week,goalcompletionsToSessionsRate,2022-31,0.017654571407106905,0.02
+ , ,, , 
+Year,New_Users,2022,478323,473723
+Year,Sessions,2022,489395,484506
+Year,Bounces,2022,398147,394183
+Year,Bounce_Rate,2022,0.813549382,0.81
+Year,Goal_Completions,2022,9453,9349
+Year,goalcompletionsToSessionsRate,2022,0.019315685693560417,0.02
+ , ,, , 
+Quarter,New_Users,2022-Q3,74380,74155
+Quarter,Sessions,2022-Q3,77093,76831
+Quarter,Bounces,2022-Q3,61577,61353
+Quarter,Bounce_Rate,2022-Q3,0.798736591,0.8
+Quarter,Goal_Completions,2022-Q3,1519,1518
+Quarter,goalcompletionsToSessionsRate,2022-Q3,0.019703475023672708,0.02
+ , ,, , 
+Month,New_Users,2022-08,11442,11196
+Month,Sessions,2022-08,11949,11683
+Month,Bounces,2022-08,9411,9185
+Month,Bounce_Rate,2022-08,0.787597288,0.79
+Month,Goal_Completions,2022-08,228,227
+Month,goalcompletionsToSessionsRate,2022-08,0.019081094652272156,0.02
+ , ,, , 
